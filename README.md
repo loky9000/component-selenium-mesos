@@ -1,6 +1,6 @@
 Description
 ===========
-Install and configure Selenium hub with scalable nodes on docker containers with mesos and marathon 
+Install and configure Selenium hub with scalable nodes on docker containers with mesos and marathon.
 
 Version 0.1-42p
 -------------
