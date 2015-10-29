@@ -9,8 +9,8 @@ kit:
     - name: "VM"
       manifest: https://raw.github.com/qubell-bazaar/component-mesos/1.0-42p/vm.yml
   provider:
-    name: "Tonomi"
-    link: http://tonomi.com
+    name: "Qubell"
+    link: http://qubell.com
   documentation:
     overview: |
       This application requires the following items to be configured in your environment:
