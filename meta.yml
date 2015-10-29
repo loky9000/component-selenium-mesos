@@ -15,5 +15,5 @@ kit:
     overview: |
       This application requires the following items to be configured in your environment:
         * Amazon EC2 or Rackspace CloudServers account;
-        * Ports  5050, 8080 open on the ﬁrewall
+        * Ports  5050, 8080 open on the ﬁrewall.
       Please refer to the Getting Started for step-by-step instructions on how to configure your environment.
